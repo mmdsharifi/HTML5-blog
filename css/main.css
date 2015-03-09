@@ -1,4 +1,4 @@
-
+/*------------------------ استایل دهی کلی ------------*/
 body{
 	font: tahoma;
 	direction: rtl;
@@ -16,6 +16,10 @@ body{
 #all{
 	max-width: 1200px;
 	margin: 0 auto;
+}
+img{
+	width: 100%;
+	height: auto;
 }
 a{
 	text-decoration: none;
@@ -53,6 +57,7 @@ nav[role="menu"] li>a{
 nav[role="menu"] li>a:hover{
 	color:#fff;
 }
+/*------------------------ قسمت اصلی بلاگ ------------*/
 article{
 	color: #212121;
 }
@@ -90,7 +95,6 @@ aside{
 	width: 259px;
 	color: #212121;
 	background: #E0F2F1;
-
 }
 aside a{
 	color:#01579B;
@@ -103,6 +107,13 @@ aside h5{
 }
  li{
 	list-style: none
+}
+.read-more{
+	float: left;
+	margin-top: 0;
+}
+.comments{
+	color:#fafafa;
 }
 /*------------------------ فوتر ------------*/
 footer{
@@ -121,11 +132,4 @@ footer span{
 }
 footer span a{
 	color: #fafafa;
-}
-.read-more{
-	float: left;
-	margin-top: 0;
-}
-.comments{
-	color:#fafafa;
 }
