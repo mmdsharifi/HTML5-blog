@@ -1,12 +1,17 @@
 
-body,html{
+body{
 	font: tahoma;
 	direction: rtl;
-	background:#eef;
+	/*background:#eef;*/
 	margin: 0;
 	padding: 0;
 	display: block;
 	box-sizing: border-box;
+	background: url(../img/spring_94.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 #all{
 	max-width: 1200px;
