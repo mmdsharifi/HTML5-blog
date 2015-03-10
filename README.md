@@ -13,7 +13,8 @@ __I use this :boom:NEW tags:__
 * `time`
 
 ##Style
-Simple selectors and properties that very important for everyone!
+Simple selectors and properties that very important for Front-end Developer.
+
 for example:
 ```css
 main article header time{
