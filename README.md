@@ -25,3 +25,6 @@ background: #80CBC4;
 ```
 ##Our Forum
 [See our forum](http://developerha.net) and [join to us](http://goo.gl/q246XM) !
+##Useful Resources for getting Started Web Design(Persian)
+[Mehrdad Naderi Offical Website ](www.mehrdadnaderi.com/amuzesh.html)
+[Abbas Moghadam](http://www.azad-dl.com)
